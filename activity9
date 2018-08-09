@@ -1,5 +1,4 @@
 import java.util.Scanner;
-	//Wipro program 9
 public class Bridge {
 void cross(int arr[],int n) {
 	int min = 0;
@@ -31,5 +30,3 @@ public static void main(String args[]) {
 	
 }
 }
-activity09.java.txt
-Displaying activity04.java.txt.
